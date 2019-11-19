@@ -1,56 +1,47 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Webbit: Fast Websites Fast'
+image: /img/anastasia-zhenina-e4xarzndjzi-unsplash.jpg
+heading: 'Fast Websites, customized and future-proof'
+subheading: Using the newest technology to bring you faster websites
 mainpitch:
-  title: Why Kaldi
+  title: Why Webbit
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We build sites and apps that are fast. We use technology far from your basic
+    wordpress or SquareSpace technology. Building fast sites improves your
+    customers experience from the get go. The first thing your customer sees is
+    your site. Help your customer see how awesome you and your business are. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We use some of the newest most flexible technology available. Deploying on a
+  content delivery system allows our sites to be fast, flexible and secure.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/database.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Get data to your website from anywhere. An database you use, a CMS you
+        love, even some simple markdown files can give you data for your amazing
+        website. We work with contentful, netlify CMS, Wordpress, just to name a
+        few. 
+    - image: /img/shield.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We deploy on Netlify. This allows for security built in. This gives you
+        the opportunity to upgrade to something more at anytime. Do you need a
+        portal, do you need an e-commerce. We use identity from one place for
+        easy maintenance.
+    - image: /img/share.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        SEO! Deploying on the fastest technology, with a quick and flexible
+        framework, gives your site the user experience that helps improve your
+        business. 
+    - image: /img/technical-support.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        You can use your favorite tools to change the site. Then we can give you
+        more; a blog, ecommerce, authentication, dashboards. We can give you
+        more than a web site, we can give your company somewhere to show off,
+        show up and put it all out there. 
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    We give you fast, flexible, custom and future web site.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +59,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
