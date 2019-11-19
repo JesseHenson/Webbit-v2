@@ -16,7 +16,7 @@ description: >-
   content delivery system allows our sites to be fast, flexible and secure.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/database.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
