@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Webbit: Fast Websites Fast'
+image: /img/anastasia-zhenina-e4xarzndjzi-unsplash.jpg
+heading: 'Fast Websites, customized and future-proof'
+subheading: Using the newest technology to bring you faster websites
 mainpitch:
-  title: Why Kaldi
+  title: Why Webbit
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We build sites and apps that are fast. We use technology far from your basic
+    wordpress or SquareSpace technology. Building fast sites improves your
+    customers experience from the get go. The first thing your customer sees is
+    your site. Help your customer see how awesome you and your business are. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We use some of the newest most flexible technology available. Deploying on a
+  content delivery system allows our sites to be fast, flexible and secure.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +66,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
